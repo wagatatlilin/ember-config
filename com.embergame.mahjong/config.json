@@ -7,11 +7,11 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
-      "is_active": true,
+      "schedule_end": "23:59",
       "open_target_in": "external",
       "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
       "weight": 50,
-      "schedule_end": "23:59",
+      "is_active": true,
       "schedule_start": "00:00",
       "title": "ggc",
       "ad_type": "webview",
@@ -40,6 +40,6 @@
       "stage": "sandbox"
     }
   },
-  "title": "Mahjong Ember",
-  "icon_url": "https://mahjongember.web.app/ic_brand.png"
+  "icon_url": "https://mahjongember.web.app/ic_brand.png",
+  "title": "Mahjong Ember"
 }
