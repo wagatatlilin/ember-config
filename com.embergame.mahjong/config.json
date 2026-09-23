@@ -6,7 +6,7 @@
   "trigger_clicks_count": 3,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "icon_url": "https://mahjongember.web.app/ic_brand.png",
+  "title": "Mahjong Ember",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -27,5 +27,5 @@
       "stage": "sandbox"
     }
   },
-  "title": "Mahjong Ember"
+  "icon_url": "https://mahjongember.web.app/ic_brand.png"
 }
