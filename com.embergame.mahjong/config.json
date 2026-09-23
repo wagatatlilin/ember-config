@@ -1,13 +1,11 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "show_on_first_open": true,
   "skip_duration_seconds": 10,
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 3,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "title": "Mahjong Ember",
-  "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -27,5 +25,7 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "title": "Mahjong Ember",
+  "icon_url": "https://mahjongember.web.app/ic_brand.png"
 }
