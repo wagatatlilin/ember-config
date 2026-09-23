@@ -9,9 +9,9 @@
     {
       "open_target_in": "external",
       "weight": 50,
-      "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
-      "is_active": false,
       "schedule_end": "23:59",
+      "is_active": false,
+      "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
       "schedule_start": "00:00",
       "title": "ggc",
       "ad_type": "webview",
@@ -21,7 +21,6 @@
     }
   ],
   "title": "Mahjong Ember",
-  "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -41,5 +40,6 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  }
+  },
+  "icon_url": "https://mahjongember.web.app/ic_brand.png"
 }
