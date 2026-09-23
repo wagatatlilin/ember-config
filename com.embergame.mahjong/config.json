@@ -5,21 +5,7 @@
   "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 3,
   "trigger_seconds_delay": 259200,
-  "active_campaigns": [
-    {
-      "schedule_end": "23:59",
-      "open_target_in": "external",
-      "is_active": true,
-      "weight": 50,
-      "schedule_start": "00:00",
-      "campaign_id": "xEkKsiAlROVqrZhZLRec",
-      "title": "Tes iklan",
-      "ad_type": "webview",
-      "media_url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/&ved=2ahUKEwiMjZSG6oSXAxWfyzgGHViqA8YQFnoECBIQAQ&sqi=2&usg=AOvVaw1cBeRoOpMhZ3-x5M1sA3Fm",
-      "target_url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/&ved=2ahUKEwiMjZSG6oSXAxWfyzgGHViqA8YQFnoECBIQAQ&sqi=2&usg=AOvVaw1cBeRoOpMhZ3-x5M1sA3Fm",
-      "button_text": "Gass"
-    }
-  ],
+  "active_campaigns": [],
   "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
