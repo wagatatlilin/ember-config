@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "show_on_first_open": true,
   "skip_duration_seconds": 10,
   "trigger_strategy": "after_clicks",
