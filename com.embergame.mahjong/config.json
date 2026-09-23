@@ -7,10 +7,10 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
-      "is_active": true,
       "open_target_in": "external",
-      "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
       "weight": 50,
+      "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
+      "is_active": true,
       "schedule_end": "23:59",
       "schedule_start": "00:00",
       "title": "ggc",
@@ -20,6 +20,8 @@
       "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "Mahjong Ember",
+  "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -39,7 +41,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "Mahjong Ember",
-  "icon_url": "https://mahjongember.web.app/ic_brand.png"
+  }
 }
