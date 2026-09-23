@@ -2,9 +2,9 @@
   "is_ads_enabled": true,
   "show_on_first_open": true,
   "skip_duration_seconds": 10,
-  "trigger_strategy": "after_seconds",
-  "trigger_clicks_count": 10000,
-  "trigger_seconds_delay": 120,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 30,
+  "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
       "is_active": true,
