@@ -10,7 +10,7 @@
       "open_target_in": "external",
       "weight": 50,
       "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
-      "is_active": true,
+      "is_active": false,
       "schedule_end": "23:59",
       "schedule_start": "00:00",
       "title": "ggc",
