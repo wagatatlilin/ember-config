@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
+      "is_active": false,
+      "weight": 50,
       "schedule_start": "00:00",
       "open_target_in": "external",
-      "is_active": false,
       "schedule_end": "23:59",
       "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
-      "weight": 50,
       "title": "ggc",
       "ad_type": "webview",
       "media_url": "https://www.google.com/search?q=satenaked&oq=satenaked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzMTNqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
@@ -21,6 +21,7 @@
     }
   ],
   "title": "Mahjong Ember",
+  "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -40,6 +41,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "icon_url": "https://mahjongember.web.app/ic_brand.png"
+  }
 }
