@@ -8,11 +8,11 @@
   "active_campaigns": [
     {
       "weight": 50,
+      "schedule_start": "00:00",
+      "is_active": false,
       "schedule_end": "23:59",
       "open_target_in": "external",
-      "schedule_start": "00:00",
       "campaign_id": "hwIuQhDsDVvnWRtdHvAD",
-      "is_active": false,
       "title": "ggc",
       "ad_type": "webview",
       "media_url": "https://www.google.com/search?q=satenaked&oq=satenaked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzMTNqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
@@ -20,6 +20,8 @@
       "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "Mahjong Ember",
+  "icon_url": "https://mahjongember.web.app/ic_brand.png",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -39,7 +41,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "Mahjong Ember",
-  "icon_url": "https://mahjongember.web.app/ic_brand.png"
+  }
 }
